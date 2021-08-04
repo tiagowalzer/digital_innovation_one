@@ -1,5 +1,9 @@
 # Digital Innovation One
-## Banco Carrefour Data Engineer
-### Projetos
-- [Análise de Dados com Python e Pandas](https://github.com/tiagowalzer/digital_innovation_one/blob/main/banco_carrefour_data_engineer/project/data_analytics_with_python_and_pandas/)
 
+<p align="center"><img src="./DIO.png" width="500"></p>
+
+## Projetos
+- [Análise de Dados com Python e Pandas](https://github.com/tiagowalzer/digital_innovation_one/blob/main/projects/data_analytics_with_python_and_pandas/)
+<br>
+- [Desafio GCP Dataproc](https://github.com/tiagowalzer/digital_innovation_one/blob/main/projects/gcp_dataproc_challenge/README.md)
+<br>
