@@ -1,6 +1,6 @@
 # Digital Innovation One
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+<p align="center"><img src="./DIO.png" width="300"></p>
 
 ## Projetos
 - [Análise de Dados com Python e Pandas](https://github.com/tiagowalzer/digital_innovation_one/blob/main/projects/data_analytics_with_python_and_pandas/)
