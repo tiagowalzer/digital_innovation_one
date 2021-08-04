@@ -2,7 +2,7 @@
 
 Código criado para utilização junto a plataforma da Digital Innovation One
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+<p align="center"><img src="./DIO.png" width="300"></p>
 
 ## Análise de Dados com Python e Pandas
 
